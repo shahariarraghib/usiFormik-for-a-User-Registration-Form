@@ -259,11 +259,7 @@ function App() {
       </div>
 
 
-      {/* <div>
-        {
-          data.map(a => console.log(a.Address_Details[0], a.Address_Details[1]))
-        }
-      </div> */}
+      
     </div>
 
   );
